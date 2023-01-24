@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\192.168.10.6\\учебные кабинеты\\Кабинет 28\\2022 - 2023\\ОАиП\\ИС-23к\\Контроль\\Отчеты\\Холодов\\Chr\\Chr\\Chr.csproj",
+      "projectUniqueName": "C:\\Users\\Student28\\source\\repos\\Chr\\Chr.csproj",
       "projectName": "Chr",
-      "projectPath": "\\\\192.168.10.6\\учебные кабинеты\\Кабинет 28\\2022 - 2023\\ОАиП\\ИС-23к\\Контроль\\Отчеты\\Холодов\\Chr\\Chr\\Chr.csproj",
+      "projectPath": "C:\\Users\\Student28\\source\\repos\\Chr\\Chr.csproj",
       "packagesPath": "C:\\Users\\Student28\\.nuget\\packages\\",
-      "outputPath": "\\\\192.168.10.6\\учебные кабинеты\\Кабинет 28\\2022 - 2023\\ОАиП\\ИС-23к\\Контроль\\Отчеты\\Холодов\\Chr\\Chr\\obj\\",
+      "outputPath": "C:\\Users\\Student28\\source\\repos\\Chr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student28\\AppData\\Roaming\\NuGet\\NuGet.Config",
